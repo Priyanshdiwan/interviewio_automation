@@ -50,8 +50,8 @@ Before running the script, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your_repository_url>
-    cd <your_repository_directory>
+    git clone https://github.com/Priyanshdiwan/interviewio_automation
+    cd interviewio_automation
     ```
 2.  **Create a `.env` file:**
     * Create a file named `.env` in the same directory as the `main.py` script.
@@ -72,10 +72,8 @@ Before running the script, ensure you have the following installed:
     * To run the script in headed mode (with a visible browser window):
         ```bash
         python3 main.py
-        ```
-        or
-        ```bash
-        python main.py
+        OR
+        python3 main.py -head
         ```
     * To run the script in headless mode (without a visible browser window):
         ```bash
