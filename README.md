@@ -23,10 +23,6 @@ This project is a Python-based Selenium script designed to automate interactions
     * Clicks on a profile element.
     * Logs out of the website.
 
-* **Credential Management:** The script uses a `.env` file to store sensitive information (like usernames and passwords) securely, keeping them separate from the main script.
-
-* **Headless Execution:** The script supports both headed (visible browser) and headless (background browser) modes.
-
 * **Command-Line Argument:** The script accepts a command-line argument to control whether the browser runs in headless mode. `[-head` (default) and `-headless]`
 
 * **Clear Output:** The script provides informative output to the console, indicating the steps it's performing.
