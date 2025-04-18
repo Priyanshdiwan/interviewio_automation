@@ -11,9 +11,6 @@ This project is a Python-based Selenium script designed to automate interactions
 * **Headless Mode:**
 
     [![Headless Mode Demonstration](http://img.youtube.com/vi/1/0.jpg)](https://youtu.be/5ECsWxqHOeg)
-
-  * **Setup Tutorial:**
-     [![Setup Tutorial(http://img.youtube.com/vi/1/0.jpg)](https://youtu.be/5ECsWxqHOeg)
     
 ## Features
 
