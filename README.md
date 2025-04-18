@@ -1,7 +1,6 @@
 # Selenium Web Automation Script
 
-This project is a Python-based Selenium script designed to automate interactions with a website.
-
+This project is a Python-based Selenium script designed to automate interactions with a website, made for intervue.io
 ## Features
 
 * **Automated Web Interaction:** The script automates the following actions:
@@ -86,6 +85,6 @@ Before running the script, ensure you have the following installed:
 
 ## Video Demonstrations
 
-* **Headed Mode:** A video demonstration showing the script running with a visible browser is available [link to headed video].
-* **Headless Mode:** A video demonstration showing the script running in the background (headless mode) is available [link to headless video].
+* **Headed Mode:** A video demonstration showing the script running with a visible browser is available [https://youtu.be/0wNkCd6ctKA].
+* **Headless Mode:** A video demonstration showing the script running in the background (headless mode) is available [https://youtu.be/5ECsWxqHOeg].
 
