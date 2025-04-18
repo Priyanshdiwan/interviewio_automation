@@ -2,6 +2,19 @@
 
 This project is a Python-based Selenium script designed to automate interactions with a website, made for intervue.io
 
+## Video Demonstrations
+
+* **Headed Mode:**
+
+    [![Headed Mode Demonstration](http://img.youtube.com/vi/0/0.jpg)](https://youtu.be/0wNkCd6ctKA)
+
+* **Headless Mode:**
+
+    [![Headless Mode Demonstration](http://img.youtube.com/vi/1/0.jpg)](https://youtu.be/5ECsWxqHOeg)
+
+  * **Setup Tutorial:**
+     [![Setup Tutorial(http://img.youtube.com/vi/1/0.jpg)](https://youtu.be/5ECsWxqHOeg)
+    
 ## Features
 
 * **Automated Web Interaction:** The script automates the following actions:
@@ -87,12 +100,4 @@ Before running the script, ensure you have the following installed:
         python main.py -headless
         ```
 
-## Video Demonstrations
 
-* **Headed Mode:**
-
-    [![Headed Mode Demonstration](http://img.youtube.com/vi/0/0.jpg)](https://youtu.be/0wNkCd6ctKA)
-
-* **Headless Mode:**
-
-    [![Headless Mode Demonstration](http://img.youtube.com/vi/1/0.jpg)](https://youtu.be/5ECsWxqHOeg)
