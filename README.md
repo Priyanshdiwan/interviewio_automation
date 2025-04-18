@@ -60,7 +60,16 @@ Before running the script, ensure you have the following installed:
     git clone [https://github.com/Priyanshdiwan/interviewio_automation](https://github.com/Priyanshdiwan/interviewio_automation)
     cd interviewio_automation
     ```
-2.  **Create a `.env` file:**
+2.  **Create a virtual enviroment and install requiremnts.txt**
+    * Create a python virtual enviroment in the directory as the `main.py` script and activate the enviroment
+    * Install the requiremnts.txt file using pip
+      ```
+       python3 -m venv <virtual_enviroment_name>
+      pip install -r requirments.txt
+      
+      ```
+      
+3.  **Create a `.env` file:**
     * Create a file named `.env` in the same directory as the `main.py` script.
     * Add your website URL, username, and password to the `.env` file, using the following format:
         ```
