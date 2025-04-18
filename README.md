@@ -1,4 +1,4 @@
-# Selenium Web Automation Script
+#  intervue.io Selenium Web Automation Script
 
 This project is a Python-based Selenium script designed to automate interactions with a website, made for intervue.io
 
