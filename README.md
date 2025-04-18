@@ -22,9 +22,9 @@ This project is a Python-based Selenium script designed to automate interactions
 * **Clear Output:** The script provides informative output to the console, indicating the steps it's performing.
 
 ## Unique Features
-
-* **Robust Element Handling:** The script uses `WebDriverWait` with `expected_conditions` to ensure that elements are fully loaded and interactable before attempting to interact with them. This makes the script more reliable and less prone to errors due to timing issues.
-* **Modular Design:** The main logic of the script is encapsulated in a `main()` function, promoting better organization and readability.
+* **Tab Handling:** The Scripts makes sure all the pages rendered after clicking any buttons are done in the same tab by removing [ _ blank] from her URL's
+* **Robust Element Handling:** The Scripts dynamically waits for pages to load also scrolls down in the logic page making sure the button is ready to be clicked 
+* **Modular Design:** Compatible to test multiple username and password combination usign *args and **kwargs
 * **Secure Credential Management:** By using a `.env` file and the `python-dotenv` library, the script follows security best practices for handling sensitive information.
 * **Flexible Execution:** The script can be run in both headed and headless modes, providing flexibility for different use cases (e.g., debugging vs. background automation).
 * **Detailed Logging:** The script includes print statements to log its actions, which can be helpful for debugging and understanding the script's execution flow.
